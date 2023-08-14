@@ -1,5 +1,5 @@
 # ChessWebsiteProject
  Creating a Website on Chess Content
 
-Base Template for a website with HTML CSS.
-You can use the code.
+I am not working on it so its a Base Template or idea for a chess website with HTML CSS.
+You can use the code as you like.
